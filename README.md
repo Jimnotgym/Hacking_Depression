@@ -44,8 +44,12 @@ Please send pull requests with things to add or a revised order of things. Let's
 
 1. Depression is a symptom https://news.ycombinator.com/item?id=11372377
 
+2. Depression as a network http://slatestarcodex.com/2016/12/14/ssc-journal-club-mental-disorders-as-networks/
+
 
 ## Exercise
 
-1. How it may work https://news.ycombinator.com/item?id=8402229
+1. How it may work
++ https://news.ycombinator.com/item?id=8402229
++ https://elifesciences.org/articles/15092
 
