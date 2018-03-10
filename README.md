@@ -24,11 +24,21 @@ Please send pull requests with things to add or a revised order of things. Let's
 
 1. Ketamine https://news.ycombinator.com/item?id=16555757
 
-2. Magic mushrooms https://news.ycombinator.com/item?id=11713000
+2. Magic mushrooms + https://news.ycombinator.com/item?id=11713000 
++ https://news.ycombinator.com/item?id=15469854
+
+3. Curry spices https://news.ycombinator.com/item?id=16225531
 
 ## Talk about it
 
 1. By blogging http://hyperboleandahalf.blogspot.co.uk/2013/05/depression-part-two.html
+
+2. By Blogging https://zachholman.com/posts/the-depression-thing
+
+## Look for a cause
+
+1. Depression is a symptom https://news.ycombinator.com/item?id=11372377
+
 
 
 
