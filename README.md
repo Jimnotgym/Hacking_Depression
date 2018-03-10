@@ -13,7 +13,7 @@ Please send pull requests with things to add or a revised order of things. Let's
 
 # Things that may help with depression
 
-## Manipulate your cicadian rhythms
+## Manipulate your circadian rhythms
 
 1. By manipulating their sleep patterns https://news.ycombinator.com/item?id=16557500
 
