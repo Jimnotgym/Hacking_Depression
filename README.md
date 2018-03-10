@@ -26,4 +26,9 @@ Please send pull requests with things to add or a revised order of things. Let's
 
 2. Magic mushrooms https://news.ycombinator.com/item?id=11713000
 
+## Talk about it
+
+1. By blogging http://hyperboleandahalf.blogspot.co.uk/2013/05/depression-part-two.html
+
+
 
