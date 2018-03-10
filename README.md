@@ -41,5 +41,7 @@ Please send pull requests with things to add or a revised order of things. Let's
 1. Depression is a symptom https://news.ycombinator.com/item?id=11372377
 
 
+## Exercise
 
+1. How it may work https://news.ycombinator.com/item?id=8402229
 
