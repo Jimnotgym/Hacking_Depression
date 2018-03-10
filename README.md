@@ -9,13 +9,16 @@ So I thought I would start a list (since there were two things on the front page
 
 Disclaimer: I am not a doctor. If you have depression you should see a medical professional about it. Maybe you should ask them about the things on this list?
 
-Please send pull requests with things to add or a revised order of things. Let's start it as a page on here and see how it goes.
+Please send pull requests with things to add or a revised order of things. Let's start it as a page on here and see how it goes. I have linked to Hacker News a lot, rather than the actual article as the discussions tend to be very instructive.
 
 # Things that may help with depression
 
 ## Manipulate your circadian rhythms
 
-1. By manipulating your sleep patterns https://news.ycombinator.com/item?id=16557500
+1. By manipulating your sleep patterns 
++ Not sleeping https://news.ycombinator.com/item?id=16557500
++ Regular sleeping http://healthysleep.med.harvard.edu/healthy/matters/consequences
+
 
 2. Taking vitamin D https://news.ycombinator.com/item?id=16556732
 
@@ -27,6 +30,7 @@ Please send pull requests with things to add or a revised order of things. Let's
 2. Magic mushrooms 
 + https://news.ycombinator.com/item?id=11713000 
 + https://news.ycombinator.com/item?id=15469854
++ https://news.ycombinator.com/item?id=16085048
 
 3. Curry spices https://news.ycombinator.com/item?id=16225531
 
