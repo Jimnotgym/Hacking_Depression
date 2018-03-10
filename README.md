@@ -24,7 +24,8 @@ Please send pull requests with things to add or a revised order of things. Let's
 
 1. Ketamine https://news.ycombinator.com/item?id=16555757
 
-2. Magic mushrooms + https://news.ycombinator.com/item?id=11713000 
+2. Magic mushrooms 
++ https://news.ycombinator.com/item?id=11713000 
 + https://news.ycombinator.com/item?id=15469854
 
 3. Curry spices https://news.ycombinator.com/item?id=16225531
