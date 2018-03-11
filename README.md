@@ -22,6 +22,8 @@ Please send pull requests with things to add or a revised order of things. Let's
 
 2. Taking vitamin D https://news.ycombinator.com/item?id=16556732
 
+3. Sleeping in the pitch dark https://news.ycombinator.com/item?id=16562599
+
 
 ## Novel drug therapy
 
