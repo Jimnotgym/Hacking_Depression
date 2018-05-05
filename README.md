@@ -18,6 +18,7 @@ Please send pull requests with things to add or a revised order of things. Let's
 - [Things people are trying to help with their depression](#things-people-are-trying-to-help-with-their-depression)
   * [Mental techniques](#mental-techniques)
   * [Manipulate your circadian rhythms](#manipulate-your-circadian-rhythms)
+  * [Light Therapy].(#light-therapy)
   * [Novel drug therapy](#novel-drug-therapy)
   * [Talk about it](#talk-about-it)
   * [Look for a cause](#look-for-a-cause)
@@ -30,6 +31,17 @@ Please send pull requests with things to add or a revised order of things. Let's
 1. Mindfulness https://www.mindful.org/the-mindful-way-through-depression-video/
 
 2. Cognitive Behavioural Therapy http://cbtsanfrancisco.com/cbt-is-for-hackers/
+
+## Light therapy
+
+1. Depression fighting lamps-not just for SAD https://news.ycombinator.com/item?id=10590068
+
+2. Measuring the Spectral Characteristics of a Light Therapy Lamp https://news.ycombinator.com/item?id=16146932 
+
+3. DIY therapy light resources
++ http://lukeskaff.com/diy-sunlight-simulator-light-therapy-full-spectrum/ 
++ https://meaningness.com/metablog/sad-light-lumens/talk 
++ https://meaningness.com/metablog/sad-light-led-lux
 
 ## Manipulate your circadian rhythms
 
