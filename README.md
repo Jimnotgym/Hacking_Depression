@@ -17,6 +17,8 @@ Please send pull requests with things to add or a revised order of things. Let's
 
 1. Mindfulness https://www.mindful.org/the-mindful-way-through-depression-video/
 
+2. Cognitive Behavioural Therapy http://cbtsanfrancisco.com/cbt-is-for-hackers/
+
 ## Manipulate your circadian rhythms
 
 1. By manipulating your sleep patterns 
