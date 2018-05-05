@@ -5,7 +5,7 @@ This is a direct response to this question on Hacker News
 
 https://news.ycombinator.com/item?id=16557757
 
-So I thought I would start a list (since there were two things on the front page of HN that day already). It always struck me that self-help can be really effective (when combined with medical advice) at mitigating some parts of depression for some poeple.
+So I thought I would start a list (since there were two things on the front page of HN that day already). It always struck me that self-help can be really effective (when combined with medical advice) at mitigating some parts of depression for some people.
 
 Disclaimer: I am not a doctor. If you have depression you should see a medical professional about it. Maybe you should ask them about the things on this list?
 
