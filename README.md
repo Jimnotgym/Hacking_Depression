@@ -18,7 +18,7 @@ Please send pull requests with things to add or a revised order of things. Let's
 - [Things people are trying to help with their depression](#things-people-are-trying-to-help-with-their-depression)
   * [Mental techniques](#mental-techniques)
   * [Manipulate your circadian rhythms](#manipulate-your-circadian-rhythms)
-  * [Light Therapy].(#light-therapy)
+  * [Light therapy](#light-therapy)
   * [Novel drug therapy](#novel-drug-therapy)
   * [Talk about it](#talk-about-it)
   * [Look for a cause](#look-for-a-cause)
