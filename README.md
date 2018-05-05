@@ -11,7 +11,11 @@ Disclaimer: I am not a doctor. If you have depression you should see a medical p
 
 Please send pull requests with things to add or a revised order of things. Let's start it as a page on here and see how it goes. I have linked to Hacker News a lot, rather than the actual article as the discussions tend to be very instructive.
 
-# Things that may help with depression
+# Things people are trying to help with their depression
+
+## Mental techniques
+
+1. Mindfulness https://www.mindful.org/the-mindful-way-through-depression-video/
 
 ## Manipulate your circadian rhythms
 
@@ -37,6 +41,10 @@ Please send pull requests with things to add or a revised order of things. Let's
 3. Curry spices https://news.ycombinator.com/item?id=16225531
 
 4. Vitamin D https://news.ycombinator.com/item?id=17001681
+
+5. Nutrient therapy 
++ Article https://www.lewrockwell.com/2013/02/bill-sardi/weaning-away-from-psychiatric-drugs-finally-a-wayout/
++ Book mentioned in article https://www.goodreads.com/book/show/14603192-nutrient-power
 
 ## Talk about it
 
