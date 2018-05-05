@@ -1,15 +1,27 @@
-# Hacking_Depression
-A list of things people are trying to help with their depression
+<p align="center">
+<img src="https://i.imgur.com/TekNTIN.png"/>
+</p>
 
-This is a direct response to this question on Hacker News
+------------------
 
-https://news.ycombinator.com/item?id=16557757
+A list of things people are trying to help with their depression and energy levels. 
+
+This is a direct response to this question on Hacker News: [View Original Posting Here](https://news.ycombinator.com/item?id=16557757)
 
 So I thought I would start a list (since there were two things on the front page of HN that day already). It always struck me that self-help can be really effective (when combined with medical advice) at mitigating some parts of depression for some people.
 
 Disclaimer: I am not a doctor. If you have depression you should see a medical professional about it. Maybe you should ask them about the things on this list?
 
 Please send pull requests with things to add or a revised order of things. Let's start it as a page on here and see how it goes. I have linked to Hacker News a lot, rather than the actual article as the discussions tend to be very instructive.
+
+# Table of Contents:
+- [Things people are trying to help with their depression](#things-people-are-trying-to-help-with-their-depression)
+  * [Mental techniques](#mental-techniques)
+  * [Manipulate your circadian rhythms](#manipulate-your-circadian-rhythms)
+  * [Novel drug therapy](#novel-drug-therapy)
+  * [Talk about it](#talk-about-it)
+  * [Look for a cause](#look-for-a-cause)
+  * [Exercise](#exercise)
 
 # Things people are trying to help with their depression
 
@@ -66,4 +78,5 @@ Please send pull requests with things to add or a revised order of things. Let's
 1. How it may work
 + https://news.ycombinator.com/item?id=8402229
 + https://elifesciences.org/articles/15092
+
 
