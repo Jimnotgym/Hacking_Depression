@@ -36,6 +36,8 @@ Please send pull requests with things to add or a revised order of things. Let's
 
 3. Curry spices https://news.ycombinator.com/item?id=16225531
 
+4. Vitamin D https://news.ycombinator.com/item?id=17001681
+
 ## Talk about it
 
 1. By blogging http://hyperboleandahalf.blogspot.co.uk/2013/05/depression-part-two.html
