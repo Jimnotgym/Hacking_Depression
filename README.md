@@ -23,6 +23,7 @@ Please send pull requests with things to add or a revised order of things. Let's
   * [Talk about it](#talk-about-it)
   * [Look for a cause](#look-for-a-cause)
   * [Exercise](#exercise)
+  * [Other resources](#other-resources)
 
 # Things people are trying to help with their depression
 
@@ -90,5 +91,9 @@ Please send pull requests with things to add or a revised order of things. Let's
 1. How it may work
 + https://news.ycombinator.com/item?id=8402229
 + https://elifesciences.org/articles/15092
+
+## Other resources
+
+1. Things that sometimes help if you are depressed http://slatestarcodex.com/2014/06/16/things-that-sometimes-help-if-youre-depressed/
 
 
