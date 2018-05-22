@@ -96,4 +96,6 @@ Please send pull requests with things to add or a revised order of things. Let's
 
 1. Things that sometimes help if you are depressed http://slatestarcodex.com/2014/06/16/things-that-sometimes-help-if-youre-depressed/
 
+2. Mental health on a budget http://slatestarcodex.com/2018/04/25/mental-health-on-a-budget/
+
 
